@@ -21,9 +21,6 @@
 ![image](https://github.com/mtabdev/test4/blob/main/1.JPG?raw=true)
 
 
-### adding items to cart 
-
-![image]((https://github.com/mtabdev/test4/blob/main/Screenshot(21).png?raw=true)
 
 ## rest images can be found in main directory i have posted screenshots of images of app 
 
